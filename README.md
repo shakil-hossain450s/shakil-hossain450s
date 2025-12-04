@@ -19,7 +19,7 @@
 ### **My Journey & Goals**
 
 - 🔭 **I'm currently working on:** Building full-stack MERN applications and innovative web solutions
-- 🌱 **I'm currently learning:** Advanced React patterns, Node.js performance optimization, and cloud technologies
+- 🌱 **I'm currently learning:** Typescript <!-- Advanced React patterns, Node.js performance optimization, and cloud technologies -->
 - 👯 **I'm looking to collaborate on:** Open-source MERN projects, SaaS products, and innovative web applications
 - 🤔 **I'm looking for help with:** Microservices architecture, advanced DevOps practices, and system design
 - 💬 **Ask me about:** React, Node.js, MongoDB, Express, JavaScript, or full-stack development challenges
