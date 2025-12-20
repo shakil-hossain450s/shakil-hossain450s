@@ -89,6 +89,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakil-hossain450s&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
+
 <br/>
 <br/>
 
@@ -96,6 +97,7 @@
 <a href="https://github.com/shakil-hossain450s">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=shakil-hossain450s&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?shakil-hossain450s=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
